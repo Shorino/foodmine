@@ -4,7 +4,7 @@
 export const sample_foods: any[] = [
   {
     id:'1',
-    name: 'Pizza Pepperoni',
+    name: 'Pizza',
     cookTime: '10-20',
     price: 10,
     favorite: false,
